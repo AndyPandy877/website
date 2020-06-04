@@ -1,2 +1,4 @@
 # website
-This is a totaly rubbush website
+This is a totaly rubbish website
+
+Totaly!!
