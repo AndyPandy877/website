@@ -1,4 +1,6 @@
 # website
 This is a totaly rubbish website
 
-Totaly!!
+Totally!!
+
+Now editting on branch Update-readme
